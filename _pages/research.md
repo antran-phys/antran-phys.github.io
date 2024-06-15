@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-Areas of interest
-======
 1. Applications of optical frequency combs for optical-clock-based time scales, low noise microwave/radio-frequency generation, molecular spectroscopy, and frequency metrology.
 1. Development of fibre optical frequency combs.
 1. High-precision molecular spectroscopy using ultra-stable and SI-traceable mid-infrared lasers, including Quantum Cascade Lasers and CO2 lasers.
