@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Areas of interest"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 Areas of interest
 ======
 1. Applications of optical frequency combs for optical-clock-based time scales, low noise microwave/radio-frequency generation, molecular spectroscopy, and frequency metrology.
