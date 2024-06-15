@@ -21,7 +21,7 @@ repository               : "antran-phys.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AnTran_github.jpeg"
+  avatar           : "AnTran_github.jpg"
   name             : "An Tran"
   pronouns         : "Senior scientist in Frequency Metrology"  
   bio              : "Optical Frequency Metrology, Time Scales, Molecular Physics"
