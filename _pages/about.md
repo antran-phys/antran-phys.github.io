@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am
+Dr. An Tran joined NPL in January 2022 as a Higher Research Scientist in the Optical Frequency Metrology group, Time & Frequency Department. He obtained a PhD degree from Université Sorbonne Paris Nord in 2019. His PhD thesis focussed on the development of ultra-high resolution molecular spectrometers using ultrastable, widely-tuneable, and SI-traceable quantum cascaded lasers in the mid-infrared domain. He spent two years doing a postdoc at University of Oxford, developing ultra-sensitive continuous-wave cavity-enhanced polarimetry for optical rotation measurement of chiral molecules.
+
+His current research focuses on optical clock-based time scales and ultralow-noise microwave synthesis from ultrastable optical references using frequency combs.
 
 A data-driven personal website
 ======
@@ -15,14 +17,12 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Areas of Interest
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+1. Applications of optical frequency combs for optical-clock-based time scales, low noise microwave/radio-frequency generation, molecular spectroscopy, and frequency metrology.
+1. Development of fibre optical frequency combs.
+1. High-precision molecular spectroscopy using ultra-stable and SI-traceable mid-infrared lasers, including Quantum Cascade Lasers and CO2 lasers. 
 
 Site-wide configuration
 ------
