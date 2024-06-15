@@ -15,5 +15,14 @@ He obtained a PhD degree in Physics (frequency metrology and molecular physics) 
 News
 ======
 
-1. 
+
+**24/04/2024** One abstracted has been accepted to give a talk at CLEO-PR 2024 (Incheon, South Korea).
+
+**11/01/2024** My paper with the LPL team in Paris has been accepted to publish in APL Photonics: "Near- to mid-IR spectral purity transfer with a tunable frequency comb: Methanol frequency metrology over a 1.4 GHz span".
+
+**12/01/2024** My JCP paper has been chosen as an Editor's Pick.
+
+**11/01/2024** My paper with the PTCL team in Oxford has been accepted to publish in the Journal of Chemical Physics: "Continuous-Wave Cavity Ring-Down for High-Sensitivity Polarimetry and Magnetometry Measurements".
+
+
 
