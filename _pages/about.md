@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Dr. An Tran joined NPL in January 2022 as a Higher Research Scientist in the Optical Frequency Metrology group, Time & Frequency Department. He obtained a PhD degree from Université Sorbonne Paris Nord in 2019. His PhD thesis focussed on the development of ultra-high resolution molecular spectrometers using ultrastable, widely-tuneable, and SI-traceable quantum cascaded lasers in the mid-infrared domain. He spent two years doing a postdoc at University of Oxford, developing ultra-sensitive continuous-wave cavity-enhanced polarimetry for optical rotation measurement of chiral molecules.
+Dr. An Tran is a senior scientist at the Time and Frequency Department, National Physical Laboratory -NPL (The UK National Metrology Institue). Since joined NPL in January 2022, his current research focuses on optical clock-based time scales and ultralow-noise microwave synthesis from ultrastable optical references using frequency combs, development of optical frequency combs, and quantum test and evaluation.
 
-His current research focuses on optical clock-based time scales and ultralow-noise microwave synthesis from ultrastable optical references using frequency combs.
+He obtained a PhD degree in Physics (frequency metrology and molecular physics) from Université Sorbonne Paris Nord in 2019. His PhD thesis focussed on the development of ultra-high resolution molecular spectrometers using ultrastable, widely-tuneable, and SI-traceable quantum cascaded lasers in the mid-infrared domain. He spent two years doing a postdoc at University of Oxford, developing ultra-sensitive continuous-wave cavity-enhanced polarimetry for optical rotation measurement of chiral molecules.
+
 
 Areas of Interest
 ======
