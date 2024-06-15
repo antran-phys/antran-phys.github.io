@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Teddington, United Kingdom"
   employer         : "National Physical Laboratory (NPL)"
-  uri              : "www.npl.co.uk"
+  url              : "www.npl.co.uk"
   email            : "an.tran@gnpl.co.uk" 
 
   # Academic websites
