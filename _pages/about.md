@@ -9,14 +9,11 @@ redirect_from:
 
 Dr. An Tran is a senior scientist at [Time and Frequency Department, National Physical Laboratory - NPL](https://www.npl.co.uk/time-frequency) (The UK National Metrology Institue). Since joined NPL in January 2022, his current research focuses on optical clock-based time scales and ultralow-noise microwave synthesis from ultrastable optical references using frequency combs, development of optical frequency combs, and quantum test and evaluation.
 
-He obtained a PhD degree in Physics (frequency metrology and molecular physics) from Université Sorbonne Paris Nord in 2019 under the supervision of Prof. Anne Amy-Klein and Dr. Benoit Darquié. His PhD thesis, conducted at Laboratoire de Physique des Lasers (LPL) focussed on the development of ultra-high resolution molecular spectrometers using ultrastable, widely-tuneable, and SI-traceable quantum cascaded lasers in the mid-infrared domain. He spent two years doing a postdoc at the Physical and Theoretical Chemistry Laboratory (PTCL), University of Oxford, developing ultra-sensitive continuous-wave cavity-enhanced polarimetry for optical rotation measurement of chiral molecules.
+He obtained a PhD degree in Physics (frequency metrology and molecular physics) from [Université Sorbonne Paris Nord](http://www-lpl.univ-paris13.fr/FR/) in 2019 under the supervision of Prof. Anne Amy-Klein and Dr. Benoit Darquié. His PhD thesis focussed on the development of ultra-high resolution molecular spectrometers using ultrastable, widely-tuneable, and SI-traceable quantum cascaded lasers in the mid-infrared domain. He spent two years doing a postdoc at [Physical and Theoretical Chemistry Laboratory (PTCL), University of Oxford](https://ritchie.web.ox.ac.uk), developing ultra-sensitive continuous-wave cavity-enhanced polarimetry for optical rotation measurement of chiral molecules.
 
 
-Areas of Interest
+News
 ======
 
-1. Applications of optical frequency combs for optical-clock-based time scales, low noise microwave/radio-frequency generation, molecular spectroscopy, and frequency metrology.
-1. Development of fibre optical frequency combs.
-1. High-precision molecular spectroscopy using ultra-stable and SI-traceable mid-infrared lasers, including Quantum Cascade Lasers and CO2 lasers. 
-
+1. 
 
