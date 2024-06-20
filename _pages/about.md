@@ -18,7 +18,7 @@ News
 
 **24/04/2024** One abstract on the microwave photonics study has been accepted to give a talk at CLEO-PR 2024 (Incheon, South Korea).
 
-**11/01/2024** My paper with the LPL team in Paris has been accepted to publish in APL Photonics: "Near- to mid-IR spectral purity transfer with a tunable frequency comb: Methanol frequency metrology over a 1.4 GHz span".
+**08/02/2024** My paper with the LPL team in Paris has been accepted to publish in APL Photonics: "Near- to mid-IR spectral purity transfer with a tunable frequency comb: Methanol frequency metrology over a 1.4 GHz span".
 
 **12/01/2024** My JCP paper has been chosen as an Editor's Pick.
 
@@ -29,6 +29,9 @@ News
 **12-15/10/2023** I give an invited talk at The 8th International Conference on Applied and Engineering Physics (ICAEP).
 
 **01/06/2023** I have been promoted to a Senior Scientist at NPL
+
+
+![339989831-7550d508-b7e7-4647-9969-a3d06b5cd915](https://github.com/antran-phys/antran-phys.github.io/assets/172888192/d3f0db70-5f1d-4e5f-ba05-d1ca6eb90a25)
 
 
 
